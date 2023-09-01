@@ -22,7 +22,7 @@
 
 <br />
 
-<h3  align="center">Skills</h3>
+<h3  align="center">Tech Stack</h3>
 
 <br />
 
@@ -43,6 +43,8 @@
 </div>
 
 <br />
+
+![github-user-contribution](https://github.com/AlejandroPachec/AlejandroPachec/assets/138246057/9a201126-c42c-45f0-ae24-1e03580219d5)
 
 
 <!---
