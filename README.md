@@ -1,6 +1,6 @@
-# ¡Hey! , You found me! 🎯
+<!-- # ¡Hey! , You found me! 🎯
 
-
+-->
 <div align="right">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroPachec&color=00BFB2)
@@ -22,7 +22,7 @@
 
 <br />
 
-<h3  align="center">Lenguajes , Frameworks y Entornos</h3>
+<h3  align="center">Skills</h3>
 
 <br />
 
@@ -45,12 +45,13 @@
 <br />
 
 
-
+<!---
 <h3 align="center">
 You can see my projects here
 </h3>
 
 <div align="center">👇🏼👇🏼</div>
+--->
 <!---
 AlejandroPachec/AlejandroPachec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
