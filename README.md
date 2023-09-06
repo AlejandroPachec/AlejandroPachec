@@ -42,8 +42,11 @@
 
 </div>
 
-<div>
-  <span>Finally, here is my other passion: Bad/Dad Jokes</span>
+<div align="center">
+  <span>Finally, here is my other passion: Bad/Dad Jokes:</span>
+<br />
+<br />
+<br />
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   
 </div>
