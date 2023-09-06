@@ -42,6 +42,12 @@
 
 </div>
 
+<div>
+  <span>Finally, here is my other passion: Bad/Dad Jokes</span>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  
+</div>
+
 <br />
 
 ![github-user-contribution](https://github.com/AlejandroPachec/AlejandroPachec/assets/138246057/9a201126-c42c-45f0-ae24-1e03580219d5)
