@@ -84,7 +84,7 @@
 
 <h3 align="left" style="color: #88C0D0;"> My Projects ✨:</h3>
 <p style="margin-right: 1rem">
-  <a href="https://github.com/AnaBelenBernardez/aecc">
+  <a href="https://corunaenmarchacontraocancro.com/">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaBelenBernardez&repo=aecc&theme=nord" />
   </a>
 </p>
