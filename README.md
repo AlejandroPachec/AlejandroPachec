@@ -6,7 +6,6 @@
 
 <h1 align="center" style="color: #88C0D0;">Hey 👋, I'm Alejandro</h1>
 <h3 align="center">A Full Stack Developer</h3>
-<p align="center" style="font-weight: bold;">First and foremost, look no further! You found me! I can be that new addition to your team and I´m sure you won't regret hiring me!</p>
 <br>
 <br>
 <img align="right" style="float: right; margin: 0 0 20px 20px;" alt="GIF" src="https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="400" height="300" />
@@ -32,7 +31,6 @@
 
 <details>
   <summary>Spanish version</summary>
-  <p align="center" style="font-weight: bold;">¡Antes de nada, no sigas mirando! ¡Me has encontrado! !Puedo ser esa nueva incorporación en tu equipo y te aseguro que no te arrepentirás de contratarme!</p>
 <br>
 
 <br>
