@@ -55,7 +55,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,express" />
   </a>
 </p>
 
@@ -69,14 +69,14 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,cloudflare" />
   </a>
 </p>
 
 - Currently learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,md" />
+    <img src="https://skillicons.dev/icons?i=ts,vue" />
   </a>
 </p>
 
