@@ -20,6 +20,7 @@
 <br>
 
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="js icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="50" height="50" />
