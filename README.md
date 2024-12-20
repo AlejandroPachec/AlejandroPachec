@@ -35,7 +35,7 @@
 <br>
 
 <br>
-<img align="right" style="float: right; margin: 0 0 20px 20px;" alt="GIF" src="https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="400" height="350" />
+<img align="right" style="float: right; margin: 0 0 20px 20px;" alt="GIF" src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="400" height="350" />
 <div>
 <p align="center">Desde que tengo uso de razón, la tecnología me ha fascinado. Aún así, no fue hasta hace poco que me di cuenta de que podía convertir esa pasión en una carrera profesional. La programación llegó a mí casi por casualidad, y me sentí gratamente sorprendido por cuánto me gustaba y lo bien que se me daba de forma natural. Desde ese momento me enganché y fue entonces cuando tomé la determinación de dedicarme al cien por cien en este camino y no he vuelto a mirar atrás</p>
 
