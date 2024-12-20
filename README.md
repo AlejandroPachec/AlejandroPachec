@@ -105,7 +105,7 @@
 <h3 align="left" style="color: #88C0D0;">GitHub stats 📊:</h3>
 
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroPachec\&theme=nord\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues,reviews)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroPachec\&theme=nord\&show_icons=true\&show=reviews,prsmerged,prs_merged_percentage\&hide=contribs,issues,reviews)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlejandroPachec&theme=nord&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
@@ -122,6 +122,6 @@
 
 <h3 align="left" style="color: #88C0D0;">Activity 📈:</h3>
 
-![AlejandroPachec's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroPachec&custom_title=Alejandro's%20GitHub%20Activity%20Graph&theme=nord&area=true)
+![AlejandroPachec's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroPachec&customtitle=Alejandro's%20GitHub%20Activity%20Graph&theme=nord&area=true)
 <br><br>
 
