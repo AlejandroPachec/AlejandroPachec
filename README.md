@@ -56,7 +56,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,express,nestjs" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman,npm,cloudflare" />
   </a>
 </p>
 
