@@ -8,7 +8,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 <br>
 <br>
-<img align="right" style="float: right; margin: 0 0 20px 20px;" alt="GIF" src="https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="400" height="300" />
+<img align="right" style="float: right; margin: 0 0 20px 20px;" alt="GIF" src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="400" height="300" />
 <div>
 <p align="center">Ever since I can remember, technology has fascinated me. However, it wasn't until recently that I realized I could turn that passion into a career. Programming found me almost by chance, and I was pleasantly surprised by how much I enjoyed it and how naturally I excelled at it. From that moment on, I was hooked. I made the decision to fully commit myself to this path, and I haven't looked back since.</p>
 
