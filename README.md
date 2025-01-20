@@ -63,7 +63,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,materialui" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@
 - Currently learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vue" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
