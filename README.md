@@ -10,7 +10,7 @@
 <br>
 <img align="right" style="float: right; margin: 0 0 20px 20px;" alt="GIF" src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="400" height="300" />
 <div>
-<p align="center">Ever since I can remember, technology has fascinated me. However, it wasn't until recently that I realized I could turn that passion into a career. Programming found me almost by chance, and I was pleasantly surprised by how much I enjoyed it and how naturally I excelled at it. From that moment on, I was hooked. I made the decision to fully commit myself to this path, and I haven't looked back since.</p>
+<p align="center">Ever since I can remember, technology has fascinated me. However, it wasn't until a couple of years ago that I realized I could turn that passion into a career. Programming found me almost by chance, and I was pleasantly surprised by how much I enjoyed it and how naturally I excelled at it. From that moment on, I was hooked. I made the decision to fully commit myself to this path, and I haven't looked back since.</p>
 
 <p align="center">Since then, I've dedicated myself to improving my technical skills and, importantly, applying them in real-world scenarios through personal projects and collaborative team projects—something I find deeply rewarding. Learning from fellow programmers and collectively exploring new technologies brings me immense joy.</p>
 
@@ -37,7 +37,7 @@
 <br>
 <img align="right" style="float: right; margin: 0 0 20px 20px;" alt="GIF" src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="400" height="350" />
 <div>
-<p align="center">Desde que tengo uso de razón, la tecnología me ha fascinado. Aún así, no fue hasta hace poco que me di cuenta de que podía convertir esa pasión en una carrera profesional. La programación llegó a mí casi por casualidad, y me sentí gratamente sorprendido por cuánto me gustaba y lo bien que se me daba de forma natural. Desde ese momento me enganché y fue entonces cuando tomé la determinación de dedicarme al cien por cien en este camino y no he vuelto a mirar atrás</p>
+<p align="center">Desde que tengo uso de razón, la tecnología me ha fascinado. Aún así, no fue hasta hace un par de años que me di cuenta de que podía convertir esa pasión en una carrera profesional. La programación llegó a mí casi por casualidad, y me sentí gratamente sorprendido por cuánto me gustaba y lo bien que se me daba de forma natural. Desde ese momento me enganché y fue entonces cuando tomé la determinación de dedicarme al cien por cien en este camino y no he vuelto a mirar atrás</p>
 
 <p align="center">Desde entonces me he dedicado a mejorar mis habilidades técnicas y, sobre todo, aplicarlas en escenarios reales a través proyectos personales y proyectos de equipo colaborativos, algo que me encanta profundamente. Aprender de otros compañeros programadores y explorar en equipo nuevas tecnologías me aporta mucha felicidad.</p>
 
