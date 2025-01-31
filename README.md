@@ -93,8 +93,8 @@
   </a>
 </p>
   <p style="margin-left: 1rem">
-  <a href="https://github.com/AlejandroPachec/Cometa_Animal_Shelter_Backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPachec&repo=Cometa_Animal_Shelter_Backend&theme=nord" />
+  <a href="https://github.com/AlejandroPachec/super-humble-hero-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPachec&repo=super-humble-hero-frontend&theme=nord" />
   </a>
 </p>
 <br>
