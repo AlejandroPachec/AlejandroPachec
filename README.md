@@ -97,6 +97,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPachec&repo=super-humble-hero-frontend&theme=nord" />
   </a>
 </p>
+  <p style="margin-left: 1rem">
+  <a href="https://github.com/AlejandroPachec/superhumble-hero">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPachec&repo=superhumble-hero&theme=nord" />
+  </a>
+</p>
 <br>
 
 
